@@ -1,0 +1,49 @@
+body {
+    background-image: url("./img/bg.jpg");
+}
+
+div {
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    padding: 10px 5px;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 200px;
+}
+
+img {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 250px;
+    margin-top: 10px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+button {
+    margin-top: 20px;
+    width: 250px;
+    padding: 8px 0;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: #1B4365;
+    color: white;
+    cursor: pointer;
+}
+
+p {
+    font-size: 12px;
+    text-align: right;
+    padding-right: 20px;
+}
+
+span {
+    font-weight: bold;
+    cursor: pointer;
+}
